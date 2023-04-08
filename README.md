@@ -1,3 +1,5 @@
-##### 2023_Study_backup
-2023 study backup git
+#### 2023_Study_backup
 코딩공부 upload repository
+'''
+python, java
+'''
