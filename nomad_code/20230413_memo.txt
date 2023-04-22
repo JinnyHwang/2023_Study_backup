@@ -1,0 +1,20 @@
+
+HTML, CSS, JS
+
+three.js
+자바스크립트로 3D 구현하게 해줌
+
+React Native
+프레임워크
+JS로 IOS, 안드로이드 앱 만들 수 있음
+
+ELECTRON
+데스크탑 앱 만들 수 있음
+프로그램 만들 수 있음!
+
+JS로 백엔드? 머신러닝?
+
+socket.io
+
+브라우저 console 사용해보기
+

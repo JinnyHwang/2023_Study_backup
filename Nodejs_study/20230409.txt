@@ -1,0 +1,24 @@
+https://opentutorials.org/course/3332/21032
+아파치처럼 웹서버 기능을 내장하고 있음
+
+local을 서버로 사용
+port 번호 지정
+
+java script가 지원하는data type
+Number
+String
+Boolean
+Array
+Object
+
+CRUD
+Create
+Read
+Update
+Delete
+
+
+https://nodejs.org/dist/latest-v18.x/docs/api/
+
+
+
