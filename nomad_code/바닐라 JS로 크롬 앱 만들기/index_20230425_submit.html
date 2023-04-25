@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Momentum App</title>
+</head>
+<body>
+    <!-- input의 유효성 검사를 작동시키기 위해서는 form 태그 안에 있어야 함
+        그런데 form을 사용하면 창이 새로고침됨
+        form이 submit되고 있기 때문
+        input 안에 있는 button을 누르거나
+        type이 submit인 input을 클릭하면 submit됨
+        type이 submit인 input을 사용하면 버튼 클릭에 신경쓰지 않아도 됨
+        엔터를 눌러도 submit 됨
+        이제 관점을 바꿔서 버튼 클릭이 아닌
+        form submit에 신경쓰기
+        브라우저가 새로고침하지 않고 user 정보를 저장하도록 하자!
+    <div id="login-form"> -->
+    <!-- form이 계속 submit하는 것을 막아야함!
+        submit event가 발생하는 것을 막거나
+        중간에 개입해서 submit event가 발생했다는 것을 파악해야함
+    -->
+    <form id="login-form">
+        <input
+            required
+            maxlength="15"
+            type="text"
+            placeholder="What is your name?"
+        />
+        <input type="submit" value="Log In" />
+        <!-- <button>Log In</button> -->
+    </form>
+    <!-- </div> -->
+    
+    <script src="app_20230425_submit.js"></script>
+</body>
+</html>
