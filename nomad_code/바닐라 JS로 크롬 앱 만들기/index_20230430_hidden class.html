@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style_20230430_hidden class.css">
+    <title>Momentum App</title>
+</head>
+<body>
+    <!-- form의 기본 동작: submit -->
+    <!-- <form id="login-form" class="hidden">
+        CSS에서 정의한 hidden class를 form에 적용하고 싶을 때 위와 같이 선언 -->
+    <form id="login-form">
+        <input
+            required
+            maxlength="15"
+            type="text"
+            placeholder="What is your name?"
+        />
+        <input type="submit" value="Log In" />
+    </form>
+    <!-- h1에 표시할 텍스트가 있는 경우에만 표시되도록 함 -->
+    <h1 id="greeting" class="hidden"></h1>
+    <!-- 링크의 기본 동작: 클릭시 다른 페이지로 이동하는 것 -->
+    <a href="https://nomadcoders.co/">Go to courses</a>
+    <script src="app_20230430_hidden class.js"></script>
+</body>
+</html>
