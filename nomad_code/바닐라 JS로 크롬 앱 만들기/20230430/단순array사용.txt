@@ -1,0 +1,11 @@
+
+localStorage의 backup data를 읽어 초기화되는 toDos배열의 형태는
+단순히 text 값만 저장하는 
+
+todos	["ss","dd","ff","gg","hh","wewe","q","gg","aaa"]
+
+형태를 가지도록 구현
+
+20230508 폴더에서는
+위와 같은 단순 리스트 형태가 아닌
+list의 각 원소가 dictionary 형태로 저장되는 방식을 사용함
