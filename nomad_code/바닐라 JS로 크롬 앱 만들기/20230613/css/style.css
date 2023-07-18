@@ -1,0 +1,4 @@
+/* 보이지 않게 하는 hidden class 정의 */
+.hidden {
+    display: none;
+}

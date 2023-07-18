@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Momentum App</title>
+</head>
+<body>
+    <form id="login-form" class="hidden">
+        <!-- required는 서버로 제출 전 반드시 채워져있어야 하는 필드임을 표기하기 위함 -->
+        <input
+            required
+            maxlength="20"
+            type="text"
+            placeholder="What's your name?"
+        />
+        <input type="submit" value="log in"/>
+    </form>
+    <h1 id="greeting" class="hidden"></h1>
+    <!-- login 정보 유무에 따라 form이 보여지거나 h1이 보여지거나 -->
+    <script src="js/greetings.js"></script>
+
+    <h2 id="clock"></h2>
+    <script src="js/clock.js"></script>
+
+</body>
+</html>
