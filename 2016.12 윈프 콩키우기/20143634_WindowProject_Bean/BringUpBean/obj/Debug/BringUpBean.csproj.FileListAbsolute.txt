@@ -1,0 +1,14 @@
+E:\University\윈도우 프로그래밍\기말프로젝트\20143634_WindowProject_Bean\BringUpBean\bin\Debug\BringUpBean.exe.config
+E:\University\윈도우 프로그래밍\기말프로젝트\20143634_WindowProject_Bean\BringUpBean\bin\Debug\BringUpBean.exe
+E:\University\윈도우 프로그래밍\기말프로젝트\20143634_WindowProject_Bean\BringUpBean\bin\Debug\BringUpBean.pdb
+E:\University\윈도우 프로그래밍\기말프로젝트\20143634_WindowProject_Bean\BringUpBean\obj\Debug\BringUpBean.csprojResolveAssemblyReference.cache
+E:\University\윈도우 프로그래밍\기말프로젝트\20143634_WindowProject_Bean\BringUpBean\obj\Debug\BringUpBean.Properties.Resources.resources
+E:\University\윈도우 프로그래밍\기말프로젝트\20143634_WindowProject_Bean\BringUpBean\obj\Debug\BringUpBean.csproj.GenerateResource.Cache
+E:\University\윈도우 프로그래밍\기말프로젝트\20143634_WindowProject_Bean\BringUpBean\obj\Debug\BringUpBean.exe
+E:\University\윈도우 프로그래밍\기말프로젝트\20143634_WindowProject_Bean\BringUpBean\obj\Debug\BringUpBean.pdb
+E:\University\윈도우 프로그래밍\기말프로젝트\20143634_WindowProject_Bean\BringUpBean\obj\Debug\BringUpBean.GameForm.resources
+E:\University\윈도우 프로그래밍\기말프로젝트\20143634_WindowProject_Bean\BringUpBean\obj\Debug\BringUpBean.PaintForm.resources
+E:\University\윈도우 프로그래밍\기말프로젝트\20143634_WindowProject_Bean\BringUpBean\obj\Debug\BringUpBean.EndForm.resources
+E:\University\윈도우 프로그래밍\기말프로젝트\20143634_WindowProject_Bean\BringUpBean\obj\Debug\BringUpBean.CodeInMainForm.resources
+E:\University\윈도우 프로그래밍\기말프로젝트\20143634_WindowProject_Bean\BringUpBean\obj\Debug\BringUpBean.MainFormBean.resources
+E:\University\윈도우 프로그래밍\기말프로젝트\20143634_WindowProject_Bean\BringUpBean\obj\Debug\BringUpBean.PaintNewForm.resources
